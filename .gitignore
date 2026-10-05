@@ -1,0 +1,13 @@
+# Local rendering and temporary QA files
+tmp/
+*.tmp
+*.log
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/settings.json
