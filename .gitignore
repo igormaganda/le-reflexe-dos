@@ -1,5 +1,6 @@
 # Local rendering and temporary QA files
 tmp/
+references/
 *.tmp
 *.log
 

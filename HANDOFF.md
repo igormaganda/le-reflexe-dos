@@ -26,6 +26,7 @@ Le site fonctionne localement sans installation : ouvrir `index.html`. Le panier
 
 ### Documents de cadrage
 
+- `references/` : sources locales incluses dans l'archive ZIP de transmission, mais volontairement exclues du dépôt GitHub car elles proviennent d'emplacements externes et peuvent contenir des informations de travail sensibles.
 - `docs/analyse-reference-runweek.md` : analyse du modèle de mise en page de référence.
 - `docs/analyse-agenda-runweek-2027.md` : principes de structure, rythme et usages.
 - `docs/direction-artistique-visuels.md` : direction artistique et garde-fous d'images.

@@ -7,6 +7,7 @@
 - Ajouté `HANDOFF.md` pour permettre à un autre LLM de reprendre le projet avec le contexte et les priorités.
 - Ajouté les références de génération et d'état dans `README.md`.
 - Préparé un dépôt Git local dédié avant publication sur GitHub.
+- Copié dans `references/` les deux sources externes nécessaires à une reprise complète. Elles seront conservées dans l'archive locale, mais pas publiées sur GitHub.
 
 ## 4 octobre 2026 - production des éditions finales
 

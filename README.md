@@ -22,6 +22,7 @@ Ouvrir `index.html` dans un navigateur. Le site fonctionne sans installation ni 
 - `docs/strategie-commerciale.md` : offres, supports, acquisition, prospection et calendrier.
 - `docs/architecture-dynamique.md` : passage du prototype au produit dynamique.
 - `docs/schema-postgresql.sql` : schéma PostgreSQL recommandé.
+- `references/` : copies locales des deux sources de cadrage utilisées, présentes dans l'archive ZIP de transmission mais exclues du dépôt GitHub.
 
 ## Décisions de positionnement
 
